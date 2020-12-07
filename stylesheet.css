@@ -15,7 +15,8 @@ body {
 .peach {
 	/* background-color: #FFDAB9; */
 	background-image:url(tanni.jpg);
-	background-size:cover;
+	background-repeat: no-repeat;
+	background-size:100% 100vh;
 	
 	
 }
@@ -1283,8 +1284,8 @@ audio {
 	font-family: 'Signika', sans-serif;
 	font-size: 20px;
 	text-transform: uppercase;
-	color: white;
-	text-shadow: 2px 2px 2px red;
+	color: black;
+	text-shadow: 1px 1px 1px yellow;
 	display: none;
 	font-weight: bold;
 }
